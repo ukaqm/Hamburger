@@ -1,5 +1,5 @@
 #add your name here
-#Rai Martin,
+#Rai Martin, Thomas Vick
 #Hamburger DoorDash group assignment
 
 import random
