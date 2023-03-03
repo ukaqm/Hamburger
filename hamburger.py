@@ -10,7 +10,7 @@ class Order :
         self.burger_count = self.randomBurgers()
 
     def randomBurgers (self) :
-        return random.randrange(1,20)
+        return random.randrange(1,21)
     
 #Person class with a method that randomly selects a customer from the provided list
 class Person :
