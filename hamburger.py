@@ -16,7 +16,6 @@ class Order :
 class Person :
 
     def __init__ (self) :
-        self.customer_name = ""
         self.customer_name = self.randomName()
 
     def randomName (self) :
