@@ -1,5 +1,5 @@
 #add your name here
-#Rai Martin, Thomas Vick, Ezekiel Goodman, Magda Imerlishvili
+#Rai Martin, Thomas Vick, Ezekiel Goodman, Magda Imerlishvili, Taylor English
 #Hamburger DoorDash group assignment
 #This code takes a list of customers and randomly generates a doordash order then prints their total burgers ordered
 import random
